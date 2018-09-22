@@ -1,5 +1,8 @@
 _repo: Travels-in-Peru-and-India-While-Superintending-the-Collection-of-Chinchona-Plants-and-Seeds-i__55593
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55593-h/images/cover.jpg
 creator:
   author:
     agent_name: Markham, Clements R. (Clements Robert), Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2962
     wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55593#Travels-in-Peru-and-India-While-Superintending-the-Collection-of-Chinchona-Plants-and-Seeds-i_
 gutenberg_issued: '2017-09-21'
 gutenberg_type: Text
 identifiers:
